@@ -1,0 +1,316 @@
+.container{
+    width: 90%;
+    margin: auto;}
+    *{
+        margin: 0;
+        padding: 0;
+        border: 0;
+        outline: 0;
+        box-sizing: border-box;
+        font-family: 'Poppins', sans-serif;
+    }
+    .row{
+        width: 100%;
+        float: left;}
+
+        .col-1{width: 8.33%;
+            float: left;}
+        .col-2{width: 16.66%;
+            float: left;}
+        .col-3{width: 25%;
+            float: left;}
+        .col-4{width: 33.33%;
+            float: left;}
+        .col-5{width: 41.66%;
+            float: left;}
+        .col-6{width: 50%;
+            float: left;}
+        .col-7{width: 58.33%; 
+            float: left;}
+        .col-8{width: 66.66%;
+            float: left;}
+        .col-9{width: 75%;
+            float: left;}
+        .col-10{width: 83.33%;
+            float: left;}
+        .col-11{width: 91.66%;
+            float: left;}
+        .col-12{width: 100%;
+            float: left;}
+  header{
+     
+      background: url(../image/New/Background\ img.png) no-repeat center;
+      background-size: cover;
+      text-align: center;
+      color: #fff;
+    margin-bottom:-300px;
+  }
+  .menu-part{
+    text-align: right;
+     }
+     .menu-part ul{
+      list-style: none;
+  
+    
+     }
+     .menu-part li{
+      display: inline-block;
+      margin: 4%;
+     
+  
+     }
+     .menu-part li:hover{
+        background-color: #fafafc44;
+        transition: ease-in-out 0.6s;
+     }
+     .menu-part a{
+      text-decoration: none;
+      color: #fff;
+     
+     }
+   
+     .hero-part h1{
+   font-size: 35px;
+   font-weight: 400;
+  
+     }
+    
+     .hero-btn button:hover {
+        background-color: #fff;
+        transition: ease-in-out 0.6s;
+     }
+     .dwld{
+       
+        border-radius: 4px;
+        padding: 5px 3px;
+        background-color: rgba(255, 255, 255, 0.158);
+        color:black;
+        margin-left: 1%;
+     }
+     
+     .cont{
+        border-radius: 4px;
+        padding: 5px 3px;
+        background-color: rgba(255, 255, 255, 0.158);
+        color:black;
+        margin-left: 1%;
+      
+     }
+    
+     
+     .logo-part img{
+         margin-top: 15px;
+         margin-right:180px ;
+     }
+  
+  #info{
+      background: url(../image/New/Background\ img\ 2.png) no-repeat;
+      background-size: cover;
+      padding: 250px 0px 150px;
+      text-align: center;
+
+  }
+  .info-box{
+      padding: 80px;
+    
+      box-shadow: 0px 0px 5px;
+      background-color: #fff;
+  }
+  .one{
+  position: relative;
+   bottom: 60px;
+   right: 20px;
+
+  }
+  .two{
+      position:relative;
+    left: 30px;
+    top: 50px;
+  }
+  .three{
+      position: relative;
+ right: 90px;
+ top: 20px;
+  }
+  .four{
+      position:relative;
+top: 140px;
+right: 40px;
+  }
+  #ready{
+      background:#fafafc;
+   
+  }
+.ready-writing-part{
+    text-align: right;
+  margin-right: 30px;
+  /* margin-top:80px; */
+  font-size: 35px;
+  padding: 90px 20px;
+}
+.ready-writing-part h2{
+    
+}
+.ready-writing-part p{
+font-size:15px;
+padding: 35px 0px;
+}
+
+.ready-writing-part button{
+    width:150px;
+    border-radius: 4px;
+    padding: 10px 0px;
+    background-color:#33d2fd;
+    color:#fff;
+    margin-bottom:30px;
+}
+.ready-box{
+    box-shadow: 0px 0px 3px;
+    margin-top: 30px;
+}
+.ready-box img{
+    width:5%;
+}
+ .ready-box-part b{
+     padding: 20px 20px;
+     position: relative;
+     bottom: 13px;
+ }
+ .ready-box-part p{
+     padding: 5px 43px;
+     position: relative;
+     bottom: 13px;
+ }
+.five{
+ 
+    background-color:#ffffff;
+    padding:15px 20px;
+}
+.six{
+    padding:15px 20px;
+    background-color:#33d2fd;
+    position:relative;
+ top: 00px;
+}
+.seven{
+
+    background-color:#fff;
+    position:relative;
+    top: 15px;
+    padding:15px 20px;
+}
+.eight{
+
+    background-color:#fff;
+    padding:20px 15px;
+    position:relative;
+    top:20px;
+    padding:15px 20px;
+}
+#about{
+    background-color:#ffffff;
+}
+.about-writing-part{
+    position: relative;
+   top: 30px;
+}
+.about-writing-part h2{
+    padding: 20px 10px;
+}
+.about-writing-part b{
+    padding:20px 10px;
+}
+
+.ios{
+position: relative;
+top: 30px;
+}
+.about-writing-part i{
+    border-radius: 50%;
+    background-color: #33d2fd;
+} 
+.about-writing-part p{
+    padding: 60px 5px;
+}
+#app{
+    background: url(../image/New/Background\ img.png) no-repeat;
+    background-size: cover;
+    font-size: 20px;
+}
+.app-image-part img{
+
+padding: 30px 10px;
+}
+.app-writing-part{
+    padding: 150px 0px;
+} 
+.app-writing-part h2{
+    position: relative;
+    bottom: 25px;
+}
+   
+    .app-writing-part p{
+     color: #fff;
+    
+    }
+.app-writing-part img{
+    position: relative;
+    top: 50px;
+    margin-right: 4%;
+}
+
+.app-writing-part button{
+  position: relative;
+  top:205px;
+  
+  width: 160px;
+  
+  padding: 5px 3px;
+  background-color:#f84784;
+  color: #fff;
+  
+
+}
+#contact{
+   background: #ffffff;
+    margin:50px 30px ;
+}
+.contact-menu ul{
+list-style: none;
+padding: 15px 0px;
+}
+.contact-menu a{
+    text-decoration: none;
+    color:rgba(0, 0, 0, 0.671);
+}
+.contact-menu li{
+padding: 5px 0px;
+}
+.contact-writing-part{
+    text-align: center;
+    padding: 20px 0px;
+}
+.contact-writing-part button{
+    width: 160px;
+  
+    padding: 15px 3px;
+    background-color:#33d2fd;
+    color:black;
+    position: relative;
+    top: 25px;
+    left: 25%;
+}
+#footer{
+    background-color: #233148;
+}
+.footer-writing-part{
+    color: #fff;
+    padding: 15px 0px;
+}
+.footer-icon-part i{
+    padding: 15px 20px;
+    color: #ffffff;
+    border-radius: 50%;
+    position: relative;
+    left:45%;
+}
